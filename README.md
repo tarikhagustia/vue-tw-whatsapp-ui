@@ -1,4 +1,4 @@
-# vue-tokopedia-chat
+# VueJS Tailwindcss WhatsApp UI
 
 ## Project setup
 ```
